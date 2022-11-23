@@ -1,7 +1,7 @@
 # CLI-Mini_Project-T.W-
 
 
-Project Description:
+<b> Project Description: <\b>
 
 The client has launched a pop-up cafe in a busy business district. They are offering home-made lunches and refreshments to the surrounding offices. As such, they require a software application which helps them to log and track orders.
 
@@ -17,12 +17,12 @@ Building upon our use of a courier index within our order, let’s create a list
 We’ll also need to refactor our storage layer to use .csv files rather than .txt to bring back our persistence functionality. 
 To show that our code works, we will also need to write unit tests to prove that our app works correctly. 
 Goals As a user I want to: 
-• create a product, courier, or order dictionary and add it to a list
-• view all products, couriers, or orders
-• update the status of an order 
-• persist my data 
-• STRETCH update or delete a product, order, or courier 
-• BONUS list orders by status or courier 
+1 create a product, courier, or order dictionary and add it to a list
+2 view all products, couriers, or orders
+3 update the status of an order 
+4 persist my data 
+5 STRETCH update or delete a product, order, or courier 
+6  BONUS list orders by status or courier 
 
 >>>>>
 How does my code meet week 4 requirements:
@@ -43,7 +43,7 @@ using methods such as list comprehension ect.
 
 What i enjoyed implementing in this project:
 * I really enjoyed implementing this whole project as it streached my knowledge ,pushed me to write better code.
-one of the things i enjoyed is writting function and then testing them within the terminal.
+one of the things i enjoyed is writting functions and then testing them within the terminal.
 
 If i had more time what would i implement:
 *if i had more time i would implement unit test to ensure my code does work as intend, i would also update the stoarge from .csv to using sql 
