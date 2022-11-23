@@ -24,11 +24,12 @@ Goals As a user I want to:
 - STRETCH update or delete a product, order, or courier 
 - BONUS list orders by status or courier 
 
->>>>>
+>>>>>>>
 ## How does my code meet week 4 requirements:
 My code has met week four requirements by refactoring storage layers to now use .csv files instead of .txt files 
 
-@past image of screen shot of my code that shows files in csv
+
+![image](https://user-images.githubusercontent.com/110034548/203555193-57a07033-07dc-4dbe-85fa-351cd09664a6.png)
 
  - The app is able to view all products,couriers and orders once the user is within sub-menu and chooses option 1 from the menu
  - the user is able update the status of an order and i have also added a feature that will display the changes to the user
