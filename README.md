@@ -16,7 +16,7 @@ Our app should use dictionaries for both product and courier.
 Building upon our use of a courier index within our order, let’s create a list of product indexes now for order items. 
 We’ll also need to refactor our storage layer to use .csv files rather than .txt to bring back our persistence functionality. 
 To show that our code works, we will also need to write unit tests to prove that our app works correctly. 
-Goals As a user I want to: 
+### Goals As a user I want to: 
 - create a product, courier, or order dictionary and add it to a list
 - view all products, couriers, or orders
 - update the status of an order 
