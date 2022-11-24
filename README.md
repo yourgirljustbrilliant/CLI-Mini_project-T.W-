@@ -46,5 +46,5 @@ using methods such as list comprehension ect.
 - I really enjoyed implementing this whole project as it streached my knowledge ,pushed me to write better code, i also really enjoyed colaborating with team.
    writting functions and considering the flow of the applications.
 
-## What would i implement if i had more time:
+## What would i change:
  - If i had more time i would implement unit test to ensure my code does work as intend, i would also update the stoarge from .csv to using sql 
